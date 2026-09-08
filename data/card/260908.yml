@@ -5,15 +5,15 @@ about:
   head: 0a450e4
   archived: false
   latestVersion: "v1.0.148"
-  collectedAt: 2026-09-08T02:53:25Z
+  collectedAt: 2026-09-08T06:10:42Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 30249
+  star: 30268
   watcher: 91
-  fork: 2066
+  fork: 2065
   release: 142
   contributor: 18
   pullRequest: 159
@@ -84,7 +84,7 @@ total:
   commit: 6099
 ---
 path: /home/runner/.x-repo/github.com/iOfficeAI/OfficeCLI
-collectedAt: 2026-09-08T02:53:45Z
+collectedAt: 2026-09-08T06:11:08Z
 loc:
   CSharp:
     code: 193689
