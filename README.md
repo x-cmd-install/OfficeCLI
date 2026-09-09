@@ -7,7 +7,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 - **Latest release**: `v1.0.148` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **License**: Apache-2.0
-- **Stars**: 30298 · **Forks**: 2067 · **Open issues**: 207 · **Contributors**: 18
+- **Stars**: 30340 · **Forks**: 2067 · **Open issues**: 208 · **Contributors**: 18
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/OfficeCLI> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:04:22Z._
+_Last regenerated: 2026-09-09T06:09:52Z._
