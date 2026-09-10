@@ -12,6 +12,18 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 x install OfficeCLI
 ```
 
+## Code insight
+
+Total: **264,192** lines of code across **738** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| CSharp | 193,755 | 67,460 | 17,001 | 358 |
+| Json | 25,857 | 0 | 1 | 156 |
+| Sh | 23,305 | 5,423 | 3,971 | 127 |
+| Python | 16,464 | 3,620 | 2,576 | 88 |
+| JavaScript | 2,200 | 438 | 119 | 9 |
+
 ## Source
 
 - **Upstream**: <https://github.com/iOfficeAI/OfficeCLI>
@@ -20,46 +32,50 @@ x install OfficeCLI
 
 ## Release
 
-- **Latest**: `v1.0.148` (2026-09-07)
-- **Last commit**: 2026-09-07
+- **Latest**: `v1.0.149` (2026-09-10)
+- **Last commit**: 2026-09-10
 - **Assets in release**: 9
-- **Published**: 2026-09-07T19:26:55Z
 
 ## Popularity
 
-- **Stars**: 30,377 · **Forks**: 2,068 · **Open issues**: 209 · **Contributors**: 18
+- **Stars**: 30,411 · **Forks**: 2,075 · **Open issues**: 214 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 54 · **Open PRs**: 47 · **Closed issues**: 164 · **Open issues**: 45 · **Commits**: 6099
+- **Releases**: 143 · **Merged PRs**: 56 · **Open PRs**: 58 · **Closed issues**: 166 · **Open issues**: 48 · **Commits**: 6108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 3 | 14 | 17 | 20 | 35 |
-| 90d | 2026-06-12 | 36 | 14 | 39 | 95 | 44 | 1652 |
-| 360d | 2025-09-15 | 100 | 54 | 47 | 164 | 45 | 5993 |
+| 30d | 2026-08-11 | 6 | 5 | 25 | 19 | 23 | 42 |
+| last60d | 2026-07-12 | 14 | 13 | 49 | 56 | 47 | 283 |
+| 90d | 2026-06-12 | 37 | 16 | 50 | 97 | 47 | 1659 |
+| last180d | 2026-03-14 | 100 | 56 | 58 | 166 | 48 | 5976 |
+| 360d | 2025-09-15 | 100 | 56 | 58 | 166 | 48 | 6000 |
+| last720d | 2024-09-20 | 100 | 56 | 58 | 166 | 48 | 6108 |
 
-## Code size
+## Release assets
 
-Total: **264,126** lines of code across **738** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| CSharp | 193,689 | 67,410 | 16,998 | 358 |
-| Json | 25,857 | 0 | 1 | 156 |
-| Sh | 23,305 | 5,423 | 3,971 | 127 |
-| Python | 16,464 | 3,620 | 2,576 | 88 |
-| JavaScript | 2,200 | 438 | 119 | 9 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [officecli-linux-alpine-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-alpine-arm64) | 33.2 MiB | `native/linux/arm64` |
+| [officecli-linux-alpine-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-alpine-x64) | 33.7 MiB | `other` |
+| [officecli-linux-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-arm64) | 33.2 MiB | `native/linux/arm64` |
+| [officecli-linux-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-x64) | 33.7 MiB | `other` |
+| [officecli-mac-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-mac-arm64) | 32.2 MiB | `other` |
+| [officecli-mac-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-mac-x64) | 33.1 MiB | `other` |
+| [officecli-win-arm64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-win-arm64.exe) | 32.3 MiB | `other` |
+| [officecli-win-x64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-win-x64.exe) | 31.9 MiB | `other` |
+| [SHA256SUMS](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/SHA256SUMS) | 710 B | `other` |
 
 ## Improve this data
 
 Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `OfficeCLI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/OfficeCLI.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/OfficeCLI.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:57:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:53:12Z._

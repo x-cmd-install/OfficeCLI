@@ -4,13 +4,25 @@
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
-![OfficeCLI](https://repo.x-cmd.io/OfficeCLI.svg)
+![OfficeCLI](https://repo.x-cmd.io/OfficeCLI.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install OfficeCLI
 ```
+
+## 代码洞察
+
+合计: **264,192** 行代码（覆盖前 5 种语言、共 **738** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| CSharp | 193,755 | 67,460 | 17,001 | 358 |
+| Json | 25,857 | 0 | 1 | 156 |
+| Sh | 23,305 | 5,423 | 3,971 | 127 |
+| Python | 16,464 | 3,620 | 2,576 | 88 |
+| JavaScript | 2,200 | 438 | 119 | 9 |
 
 ## 源代码
 
@@ -20,38 +32,42 @@ x install OfficeCLI
 
 ## 发布
 
-- **最新版本**: `v1.0.148` (2026-09-07)
-- **最近提交**: 2026-09-07
+- **最新版本**: `v1.0.149` (2026-09-10)
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-09-07T19:26:55Z
 
 ## 流行度
 
-- **Star**: 30,377 · **Fork**: 2,068 · **开放 issue**: 209 · **贡献者**: 18
+- **Star**: 30,411 · **Fork**: 2,075 · **开放 issue**: 214 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 142 · **已合并 PR**: 54 · **开放 PR**: 47 · **已关闭 issue**: 164 · **开放 issue**: 45 · **提交数**: 6099
+- **发布数**: 143 · **已合并 PR**: 56 · **开放 PR**: 58 · **已关闭 issue**: 166 · **开放 issue**: 48 · **提交数**: 6108
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 3 | 14 | 17 | 20 | 35 |
-| 90d | 2026-06-12 | 36 | 14 | 39 | 95 | 44 | 1652 |
-| 360d | 2025-09-15 | 100 | 54 | 47 | 164 | 45 | 5993 |
+| 30d | 2026-08-11 | 6 | 5 | 25 | 19 | 23 | 42 |
+| last60d | 2026-07-12 | 14 | 13 | 49 | 56 | 47 | 283 |
+| 90d | 2026-06-12 | 37 | 16 | 50 | 97 | 47 | 1659 |
+| last180d | 2026-03-14 | 100 | 56 | 58 | 166 | 48 | 5976 |
+| 360d | 2025-09-15 | 100 | 56 | 58 | 166 | 48 | 6000 |
+| last720d | 2024-09-20 | 100 | 56 | 58 | 166 | 48 | 6108 |
 
-## 代码规模
+## Release 资产
 
-合计: **264,126** 行代码（覆盖前 5 种语言、共 **738** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| CSharp | 193,689 | 67,410 | 16,998 | 358 |
-| Json | 25,857 | 0 | 1 | 156 |
-| Sh | 23,305 | 5,423 | 3,971 | 127 |
-| Python | 16,464 | 3,620 | 2,576 | 88 |
-| JavaScript | 2,200 | 438 | 119 | 9 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [officecli-linux-alpine-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-alpine-arm64) | 33.2 MiB | `native/linux/arm64` |
+| [officecli-linux-alpine-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-alpine-x64) | 33.7 MiB | `other` |
+| [officecli-linux-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-arm64) | 33.2 MiB | `native/linux/arm64` |
+| [officecli-linux-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-linux-x64) | 33.7 MiB | `other` |
+| [officecli-mac-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-mac-arm64) | 32.2 MiB | `other` |
+| [officecli-mac-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-mac-x64) | 33.1 MiB | `other` |
+| [officecli-win-arm64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-win-arm64.exe) | 32.3 MiB | `other` |
+| [officecli-win-x64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/officecli-win-x64.exe) | 31.9 MiB | `other` |
+| [SHA256SUMS](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.149/SHA256SUMS) | 710 B | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +78,4 @@ OfficeCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:57:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:53:12Z._
