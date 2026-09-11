@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.149"
   latestRelease: "v1.0.149"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:03:02Z
+  collectedAt: 2026-09-11T18:43:40Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-09-11
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 30429
+  star: 30453
   watcher: 89
-  fork: 2076
+  fork: 2079
   release: 143
   contributor: 18
-  pullRequest: 173
-  issue: 214
+  pullRequest: 177
+  issue: 216
 language:
   C#: 14320182
   Shell: 581965
@@ -35,60 +35,60 @@ recent:
     since: 2026-08-12
     release: 6
     mergedPR: 5
-    openPR: 24
-    closedIssue: 19
-    openIssue: 20
+    openPR: 28
+    closedIssue: 20
+    openIssue: 21
     commit: 43
   last60d:
     since: 2026-07-13
     release: 14
     mergedPR: 13
-    openPR: 47
-    closedIssue: 55
-    openIssue: 46
+    openPR: 51
+    closedIssue: 56
+    openIssue: 47
     commit: 284
   last90d:
     since: 2026-06-13
     release: 36
     mergedPR: 16
-    openPR: 48
-    closedIssue: 95
-    openIssue: 46
+    openPR: 52
+    closedIssue: 96
+    openIssue: 47
     commit: 1660
   last180d:
     since: 2026-03-15
     release: 100
     mergedPR: 56
-    openPR: 56
-    closedIssue: 167
-    openIssue: 47
+    openPR: 60
+    closedIssue: 168
+    openIssue: 48
     commit: 5977
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 56
-    openPR: 56
-    closedIssue: 167
-    openIssue: 47
+    openPR: 60
+    closedIssue: 168
+    openIssue: 48
     commit: 6001
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 56
-    openPR: 56
-    closedIssue: 167
-    openIssue: 47
+    openPR: 60
+    closedIssue: 168
+    openIssue: 48
     commit: 6109
 total:
   release: 143
   mergedPR: 56
-  openPR: 56
-  closedIssue: 167
-  openIssue: 47
+  openPR: 60
+  closedIssue: 168
+  openIssue: 48
   commit: 6109
 ---
 path: /home/runner/.x-repo/github.com/iOfficeAI/OfficeCLI
-collectedAt: 2026-09-11T06:03:36Z
+collectedAt: 2026-09-11T18:43:57Z
 loc:
   CSharp:
     code: 193758
