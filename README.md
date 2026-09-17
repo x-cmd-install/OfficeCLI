@@ -14,11 +14,11 @@ x install OfficeCLI
 
 ## Code insight
 
-Total: **264,490** lines of code across **740** files in the top 5 languages.
+Total: **264,582** lines of code across **740** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 194,050 | 67,635 | 17,048 | 360 |
+| CSharp | 194,142 | 67,707 | 17,056 | 360 |
 | Json | 25,857 | 0 | 1 | 156 |
 | Sh | 23,305 | 5,423 | 3,971 | 127 |
 | Python | 16,464 | 3,620 | 2,576 | 88 |
@@ -32,42 +32,42 @@ Total: **264,490** lines of code across **740** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.150` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Latest**: `v1.0.151` (2026-09-16)
+- **Last commit**: 2026-09-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 30,669 · **Forks**: 2,092 · **Open issues**: 223 · **Contributors**: 19
+- **Stars**: 30,735 · **Forks**: 2,094 · **Open issues**: 223 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 57 · **Open PRs**: 60 · **Closed issues**: 172 · **Open issues**: 51 · **Commits**: 6123
+- **Releases**: 145 · **Merged PRs**: 57 · **Open PRs**: 59 · **Closed issues**: 175 · **Open issues**: 48 · **Commits**: 6128
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 6 | 5 | 22 | 21 | 21 | 54 |
-| last60d | 2026-07-18 | 12 | 14 | 42 | 39 | 44 | 177 |
-| 90d | 2026-06-18 | 34 | 17 | 52 | 96 | 50 | 1269 |
-| last180d | 2026-03-20 | 100 | 57 | 60 | 172 | 51 | 5796 |
-| 360d | 2025-09-21 | 100 | 57 | 60 | 172 | 51 | 6014 |
-| last720d | 2024-09-26 | 100 | 57 | 60 | 172 | 51 | 6123 |
+| 30d | 2026-08-18 | 7 | 5 | 21 | 24 | 17 | 59 |
+| last60d | 2026-07-19 | 13 | 14 | 41 | 42 | 39 | 182 |
+| 90d | 2026-06-19 | 34 | 17 | 51 | 98 | 47 | 1274 |
+| last180d | 2026-03-21 | 100 | 54 | 59 | 175 | 48 | 5801 |
+| 360d | 2025-09-22 | 100 | 57 | 59 | 175 | 48 | 6019 |
+| last720d | 2024-09-27 | 100 | 57 | 59 | 175 | 48 | 6128 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [officecli-linux-alpine-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-linux-alpine-arm64) | 33.2 MiB | `native/linux/arm64` |
-| [officecli-linux-alpine-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-linux-alpine-x64) | 33.7 MiB | `other` |
-| [officecli-linux-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-linux-arm64) | 33.2 MiB | `native/linux/arm64` |
-| [officecli-linux-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-linux-x64) | 33.7 MiB | `other` |
-| [officecli-mac-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-mac-arm64) | 32.2 MiB | `other` |
-| [officecli-mac-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-mac-x64) | 33.1 MiB | `other` |
-| [officecli-win-arm64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-win-arm64.exe) | 32.3 MiB | `other` |
-| [officecli-win-x64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/officecli-win-x64.exe) | 31.9 MiB | `other` |
-| [SHA256SUMS](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.150/SHA256SUMS) | 710 B | `other` |
+| [officecli-linux-alpine-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-linux-alpine-arm64) | 33.2 MiB | `native/linux/arm64` |
+| [officecli-linux-alpine-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-linux-alpine-x64) | 33.8 MiB | `other` |
+| [officecli-linux-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-linux-arm64) | 33.2 MiB | `native/linux/arm64` |
+| [officecli-linux-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-linux-x64) | 33.7 MiB | `other` |
+| [officecli-mac-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-mac-arm64) | 32.3 MiB | `other` |
+| [officecli-mac-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-mac-x64) | 33.2 MiB | `other` |
+| [officecli-win-arm64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-win-arm64.exe) | 32.3 MiB | `other` |
+| [officecli-win-x64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/officecli-win-x64.exe) | 31.9 MiB | `other` |
+| [SHA256SUMS](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.151/SHA256SUMS) | 710 B | `other` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:17:51Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:29:01Z._
