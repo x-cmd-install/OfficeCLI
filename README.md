@@ -4,7 +4,7 @@
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
-![OfficeCLI](https://repo.x-cmd.io/OfficeCLI.svg)
+[![x-cmd/install — OfficeCLI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OfficeCLI.svg)](https://x-cmd.com/install/OfficeCLI)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **264,582** lines of code across **740** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,779 · **Forks**: 2,098 · **Open issues**: 223 · **Contributors**: 19
+- **Stars**: 30,858 · **Forks**: 2,105 · **Open issues**: 224 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 57 · **Open PRs**: 59 · **Closed issues**: 175 · **Open issues**: 48 · **Commits**: 6128
+- **Releases**: 145 · **Merged PRs**: 57 · **Open PRs**: 59 · **Closed issues**: 175 · **Open issues**: 49 · **Commits**: 6128
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 5 | 21 | 24 | 17 | 59 |
-| last60d | 2026-07-20 | 12 | 13 | 41 | 41 | 39 | 182 |
-| 90d | 2026-06-20 | 34 | 17 | 51 | 97 | 47 | 1274 |
-| last180d | 2026-03-22 | 100 | 54 | 59 | 175 | 48 | 5801 |
-| 360d | 2025-09-23 | 100 | 57 | 59 | 175 | 48 | 6019 |
-| last720d | 2024-09-28 | 100 | 57 | 59 | 175 | 48 | 6128 |
+| 30d | 2026-08-21 | 7 | 4 | 19 | 18 | 15 | 59 |
+| last60d | 2026-07-22 | 12 | 12 | 38 | 40 | 37 | 182 |
+| 90d | 2026-06-22 | 33 | 17 | 51 | 97 | 48 | 1274 |
+| last180d | 2026-03-24 | 100 | 52 | 59 | 175 | 49 | 5801 |
+| 360d | 2025-09-25 | 100 | 57 | 59 | 175 | 49 | 6019 |
+| last720d | 2024-09-30 | 100 | 57 | 59 | 175 | 49 | 6128 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:11:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:43Z._

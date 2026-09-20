@@ -4,7 +4,7 @@
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
-![OfficeCLI](https://repo.x-cmd.io/OfficeCLI.svg?lang=zh)
+[![x-cmd/install — OfficeCLI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OfficeCLI.svg?lang=zh)](https://x-cmd.com/install/OfficeCLI)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install OfficeCLI
 
 ## 流行度
 
-- **Star**: 30,779 · **Fork**: 2,098 · **开放 issue**: 223 · **贡献者**: 19
+- **Star**: 30,858 · **Fork**: 2,105 · **开放 issue**: 224 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 145 · **已合并 PR**: 57 · **开放 PR**: 59 · **已关闭 issue**: 175 · **开放 issue**: 48 · **提交数**: 6128
+- **发布数**: 145 · **已合并 PR**: 57 · **开放 PR**: 59 · **已关闭 issue**: 175 · **开放 issue**: 49 · **提交数**: 6128
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 7 | 5 | 21 | 24 | 17 | 59 |
-| last60d | 2026-07-20 | 12 | 13 | 41 | 41 | 39 | 182 |
-| 90d | 2026-06-20 | 34 | 17 | 51 | 97 | 47 | 1274 |
-| last180d | 2026-03-22 | 100 | 54 | 59 | 175 | 48 | 5801 |
-| 360d | 2025-09-23 | 100 | 57 | 59 | 175 | 48 | 6019 |
-| last720d | 2024-09-28 | 100 | 57 | 59 | 175 | 48 | 6128 |
+| 30d | 2026-08-21 | 7 | 4 | 19 | 18 | 15 | 59 |
+| last60d | 2026-07-22 | 12 | 12 | 38 | 40 | 37 | 182 |
+| 90d | 2026-06-22 | 33 | 17 | 51 | 97 | 48 | 1274 |
+| last180d | 2026-03-24 | 100 | 52 | 59 | 175 | 49 | 5801 |
+| 360d | 2025-09-25 | 100 | 57 | 59 | 175 | 49 | 6019 |
+| last720d | 2024-09-30 | 100 | 57 | 59 | 175 | 49 | 6128 |
 
 ## Release 资产
 
@@ -78,4 +78,4 @@ OfficeCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:11:46Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:15:44Z._
