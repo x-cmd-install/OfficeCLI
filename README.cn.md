@@ -4,7 +4,7 @@
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
-[![x-cmd/install — OfficeCLI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OfficeCLI.svg?lang=zh)](https://x-cmd.com/install/OfficeCLI)
+[![x-cmd/install — OfficeCLI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OfficeCLI.svg?lang=zh)](https://x-cmd.com/install/OfficeCLI)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install OfficeCLI
 
 ## 流行度
 
-- **Star**: 30,974 · **Fork**: 2,115 · **开放 issue**: 234 · **贡献者**: 20
+- **Star**: 31,084 · **Fork**: 2,122 · **开放 issue**: 236 · **贡献者**: 20
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 58 · **开放 PR**: 63 · **已关闭 issue**: 193 · **开放 issue**: 41 · **提交数**: 6147
+- **发布数**: 146 · **已合并 PR**: 58 · **开放 PR**: 65 · **已关闭 issue**: 193 · **开放 issue**: 43 · **提交数**: 6147
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 8 | 5 | 22 | 23 | 17 | 64 |
-| last60d | 2026-07-24 | 11 | 13 | 42 | 54 | 29 | 105 |
-| 90d | 2026-06-24 | 33 | 18 | 55 | 112 | 40 | 815 |
-| last180d | 2026-03-26 | 100 | 49 | 63 | 192 | 41 | 5414 |
-| 360d | 2025-09-27 | 100 | 58 | 63 | 193 | 41 | 6037 |
-| last720d | 2024-10-02 | 100 | 58 | 63 | 193 | 41 | 6147 |
+| 30d | 2026-08-24 | 8 | 5 | 25 | 23 | 19 | 64 |
+| last60d | 2026-07-25 | 11 | 11 | 44 | 53 | 31 | 105 |
+| 90d | 2026-06-25 | 31 | 18 | 57 | 112 | 42 | 815 |
+| last180d | 2026-03-27 | 100 | 47 | 65 | 191 | 43 | 5414 |
+| 360d | 2025-09-28 | 100 | 58 | 65 | 193 | 43 | 6037 |
+| last720d | 2024-10-03 | 100 | 58 | 65 | 193 | 43 | 6147 |
 
 ## Release 资产
 
@@ -78,4 +78,4 @@ OfficeCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:19:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:26:11Z._

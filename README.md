@@ -4,7 +4,7 @@
 
 OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
-[![x-cmd/install — OfficeCLI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OfficeCLI.svg)](https://x-cmd.com/install/OfficeCLI)
+[![x-cmd/install — OfficeCLI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OfficeCLI.svg)](https://x-cmd.com/install/OfficeCLI)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **265,137** lines of code across **741** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,974 · **Forks**: 2,115 · **Open issues**: 234 · **Contributors**: 20
+- **Stars**: 31,084 · **Forks**: 2,122 · **Open issues**: 236 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 58 · **Open PRs**: 63 · **Closed issues**: 193 · **Open issues**: 41 · **Commits**: 6147
+- **Releases**: 146 · **Merged PRs**: 58 · **Open PRs**: 65 · **Closed issues**: 193 · **Open issues**: 43 · **Commits**: 6147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 8 | 5 | 22 | 23 | 17 | 64 |
-| last60d | 2026-07-24 | 11 | 13 | 42 | 54 | 29 | 105 |
-| 90d | 2026-06-24 | 33 | 18 | 55 | 112 | 40 | 815 |
-| last180d | 2026-03-26 | 100 | 49 | 63 | 192 | 41 | 5414 |
-| 360d | 2025-09-27 | 100 | 58 | 63 | 193 | 41 | 6037 |
-| last720d | 2024-10-02 | 100 | 58 | 63 | 193 | 41 | 6147 |
+| 30d | 2026-08-24 | 8 | 5 | 25 | 23 | 19 | 64 |
+| last60d | 2026-07-25 | 11 | 11 | 44 | 53 | 31 | 105 |
+| 90d | 2026-06-25 | 31 | 18 | 57 | 112 | 42 | 815 |
+| last180d | 2026-03-27 | 100 | 47 | 65 | 191 | 43 | 5414 |
+| 360d | 2025-09-28 | 100 | 58 | 65 | 193 | 43 | 6037 |
+| last720d | 2024-10-03 | 100 | 58 | 65 | 193 | 43 | 6147 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:18:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:26:10Z._
