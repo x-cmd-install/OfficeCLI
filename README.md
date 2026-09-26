@@ -14,11 +14,11 @@ x install OfficeCLI
 
 ## Code insight
 
-Total: **265,198** lines of code across **741** files in the top 5 languages.
+Total: **265,443** lines of code across **743** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 194,758 | 67,951 | 17,107 | 361 |
+| CSharp | 195,003 | 68,019 | 17,117 | 363 |
 | Json | 25,857 | 0 | 1 | 156 |
 | Sh | 23,305 | 5,423 | 3,971 | 127 |
 | Python | 16,464 | 3,620 | 2,576 | 88 |
@@ -38,22 +38,22 @@ Total: **265,198** lines of code across **741** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,217 · **Forks**: 2,133 · **Open issues**: 241 · **Contributors**: 20
+- **Stars**: 31,246 · **Forks**: 2,132 · **Open issues**: 242 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 58 · **Open PRs**: 68 · **Closed issues**: 194 · **Open issues**: 47 · **Commits**: 6148
+- **Releases**: 146 · **Merged PRs**: 58 · **Open PRs**: 71 · **Closed issues**: 196 · **Open issues**: 46 · **Commits**: 6151
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 7 | 4 | 28 | 23 | 23 | 65 |
-| last60d | 2026-07-27 | 10 | 10 | 47 | 54 | 34 | 106 |
-| 90d | 2026-06-27 | 28 | 18 | 60 | 112 | 46 | 816 |
-| last180d | 2026-03-29 | 100 | 41 | 68 | 191 | 47 | 5415 |
-| 360d | 2025-09-30 | 100 | 58 | 68 | 194 | 47 | 6038 |
-| last720d | 2024-10-05 | 100 | 58 | 68 | 194 | 47 | 6148 |
+| 30d | 2026-08-27 | 7 | 4 | 31 | 24 | 23 | 68 |
+| last60d | 2026-07-28 | 10 | 8 | 49 | 54 | 34 | 109 |
+| 90d | 2026-06-28 | 27 | 18 | 63 | 114 | 45 | 819 |
+| last180d | 2026-03-30 | 100 | 41 | 71 | 190 | 46 | 5418 |
+| 360d | 2025-10-01 | 100 | 58 | 71 | 196 | 46 | 6041 |
+| last720d | 2024-10-06 | 100 | 58 | 71 | 196 | 46 | 6151 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:59:46Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:54:21Z._
