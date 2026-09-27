@@ -14,12 +14,12 @@ x install OfficeCLI
 
 ## Code insight
 
-Total: **265,443** lines of code across **743** files in the top 5 languages.
+Total: **265,544** lines of code across **743** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CSharp | 195,003 | 68,019 | 17,117 | 363 |
-| Json | 25,857 | 0 | 1 | 156 |
+| CSharp | 195,102 | 68,114 | 17,127 | 363 |
+| Json | 25,859 | 0 | 1 | 156 |
 | Sh | 23,305 | 5,423 | 3,971 | 127 |
 | Python | 16,464 | 3,620 | 2,576 | 88 |
 | JavaScript | 2,203 | 438 | 119 | 9 |
@@ -33,27 +33,27 @@ Total: **265,443** lines of code across **743** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.152` (2026-09-22)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-27
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 31,246 · **Forks**: 2,132 · **Open issues**: 242 · **Contributors**: 20
+- **Stars**: 31,273 · **Forks**: 2,134 · **Open issues**: 242 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 58 · **Open PRs**: 71 · **Closed issues**: 196 · **Open issues**: 46 · **Commits**: 6151
+- **Releases**: 146 · **Merged PRs**: 61 · **Open PRs**: 69 · **Closed issues**: 200 · **Open issues**: 42 · **Commits**: 6158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 7 | 4 | 31 | 24 | 23 | 68 |
-| last60d | 2026-07-28 | 10 | 8 | 49 | 54 | 34 | 109 |
-| 90d | 2026-06-28 | 27 | 18 | 63 | 114 | 45 | 819 |
-| last180d | 2026-03-30 | 100 | 41 | 71 | 190 | 46 | 5418 |
-| 360d | 2025-10-01 | 100 | 58 | 71 | 196 | 46 | 6041 |
-| last720d | 2024-10-06 | 100 | 58 | 71 | 196 | 46 | 6151 |
+| 30d | 2026-08-28 | 7 | 7 | 29 | 28 | 19 | 57 |
+| last60d | 2026-07-29 | 9 | 11 | 47 | 58 | 28 | 97 |
+| 90d | 2026-06-29 | 26 | 21 | 61 | 118 | 41 | 581 |
+| last180d | 2026-03-31 | 100 | 44 | 69 | 193 | 42 | 5245 |
+| 360d | 2025-10-02 | 100 | 61 | 69 | 200 | 42 | 6045 |
+| last720d | 2024-10-07 | 100 | 61 | 69 | 200 | 42 | 6158 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:54:21Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:26:29Z._
