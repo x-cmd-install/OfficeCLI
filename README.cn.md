@@ -14,11 +14,11 @@ x install OfficeCLI
 
 ## 代码洞察
 
-合计: **266,299** 行代码（覆盖前 5 种语言、共 **746** 个文件）。
+合计: **266,558** 行代码（覆盖前 5 种语言、共 **747** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| CSharp | 195,826 | 68,643 | 17,237 | 366 |
+| CSharp | 196,085 | 68,844 | 17,260 | 367 |
 | Json | 25,890 | 0 | 1 | 156 |
 | Sh | 23,305 | 5,423 | 3,971 | 127 |
 | Python | 16,464 | 3,620 | 2,576 | 88 |
@@ -32,42 +32,42 @@ x install OfficeCLI
 
 ## 发布
 
-- **最新版本**: `v1.0.157` (2026-10-12)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v1.0.158` (2026-10-20)
+- **最近提交**: 2026-10-20
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 32,204 · **Fork**: 2,194 · **开放 issue**: 275 · **贡献者**: 22
+- **Star**: 32,240 · **Fork**: 2,199 · **开放 issue**: 278 · **贡献者**: 22
 
 ## 累计统计
 
-- **发布数**: 151 · **已合并 PR**: 68 · **开放 PR**: 82 · **已关闭 issue**: 246 · **开放 issue**: 29 · **提交数**: 6223
+- **发布数**: 152 · **已合并 PR**: 70 · **开放 PR**: 74 · **已关闭 issue**: 259 · **开放 issue**: 19 · **提交数**: 6236
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 6 | 11 | 45 | 20 | 22 | 62 |
-| last60d | 2026-08-21 | 13 | 15 | 60 | 60 | 24 | 130 |
-| 90d | 2026-07-22 | 18 | 23 | 71 | 99 | 29 | 192 |
-| last180d | 2026-04-23 | 96 | 40 | 78 | 220 | 29 | 4289 |
-| 360d | 2025-10-25 | 100 | 68 | 82 | 246 | 29 | 6103 |
-| last720d | 2024-10-30 | 100 | 68 | 82 | 246 | 29 | 6223 |
+| 30d | 2026-09-21 | 7 | 12 | 36 | 32 | 12 | 73 |
+| last60d | 2026-08-22 | 14 | 17 | 52 | 70 | 14 | 141 |
+| 90d | 2026-07-23 | 18 | 25 | 63 | 109 | 19 | 203 |
+| last180d | 2026-04-24 | 97 | 42 | 69 | 233 | 19 | 4300 |
+| 360d | 2025-10-26 | 100 | 70 | 74 | 259 | 19 | 6114 |
+| last720d | 2024-10-31 | 100 | 70 | 74 | 259 | 19 | 6236 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [officecli-linux-alpine-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-linux-alpine-arm64) | 33.3 MiB | `native/linux/arm64` |
-| [officecli-linux-alpine-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-linux-alpine-x64) | 33.8 MiB | `other` |
-| [officecli-linux-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-linux-arm64) | 33.2 MiB | `native/linux/arm64` |
-| [officecli-linux-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-linux-x64) | 33.8 MiB | `other` |
-| [officecli-mac-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-mac-arm64) | 32.3 MiB | `other` |
-| [officecli-mac-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-mac-x64) | 33.2 MiB | `other` |
-| [officecli-win-arm64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-win-arm64.exe) | 32.4 MiB | `other` |
-| [officecli-win-x64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/officecli-win-x64.exe) | 32.0 MiB | `other` |
-| [SHA256SUMS](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.157/SHA256SUMS) | 710 B | `other` |
+| [officecli-linux-alpine-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-linux-alpine-arm64) | 33.3 MiB | `native/linux/arm64` |
+| [officecli-linux-alpine-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-linux-alpine-x64) | 33.9 MiB | `other` |
+| [officecli-linux-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-linux-arm64) | 33.3 MiB | `native/linux/arm64` |
+| [officecli-linux-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-linux-x64) | 33.8 MiB | `other` |
+| [officecli-mac-arm64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-mac-arm64) | 32.3 MiB | `other` |
+| [officecli-mac-x64](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-mac-x64) | 33.3 MiB | `other` |
+| [officecli-win-arm64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-win-arm64.exe) | 32.4 MiB | `other` |
+| [officecli-win-x64.exe](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/officecli-win-x64.exe) | 32.0 MiB | `other` |
+| [SHA256SUMS](https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.158/SHA256SUMS) | 710 B | `other` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ OfficeCLI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:53:55Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:48:07Z._
