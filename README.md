@@ -38,22 +38,22 @@ Total: **266,859** lines of code across **750** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,199 · **Forks**: 2,270 · **Open issues**: 314 · **Contributors**: 22
+- **Stars**: 33,222 · **Forks**: 2,271 · **Open issues**: 316 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 70 · **Open PRs**: 106 · **Closed issues**: 288 · **Open issues**: 26 · **Commits**: 6290
+- **Releases**: 154 · **Merged PRs**: 70 · **Open PRs**: 107 · **Closed issues**: 288 · **Open issues**: 28 · **Commits**: 6290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 4 | 2 | 50 | 33 | 17 | 65 |
-| last60d | 2026-09-12 | 11 | 13 | 69 | 76 | 22 | 154 |
-| 90d | 2026-08-13 | 17 | 19 | 88 | 112 | 23 | 210 |
-| last180d | 2026-05-15 | 63 | 33 | 101 | 238 | 26 | 2977 |
-| 360d | 2025-11-16 | 100 | 70 | 106 | 288 | 26 | 6168 |
-| last720d | 2024-11-21 | 100 | 70 | 106 | 288 | 26 | 6290 |
+| 30d | 2026-10-13 | 3 | 2 | 49 | 28 | 19 | 65 |
+| last60d | 2026-09-13 | 11 | 13 | 70 | 76 | 24 | 154 |
+| 90d | 2026-08-14 | 16 | 19 | 89 | 111 | 25 | 210 |
+| last180d | 2026-05-16 | 63 | 33 | 102 | 237 | 28 | 2977 |
+| 360d | 2025-11-17 | 100 | 70 | 107 | 288 | 28 | 6168 |
+| last720d | 2024-11-22 | 100 | 70 | 107 | 288 | 28 | 6290 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for OfficeCLI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:37:25Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:43:27Z._
