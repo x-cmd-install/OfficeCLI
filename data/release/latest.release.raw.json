@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 34958431,
       "digest": "sha256:abd80db1a6a57a544e18931687f6e6c66f9d0f49c078bb1b1d371322b36b54dc",
-      "download_count": 16,
+      "download_count": 26,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:45Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-linux-alpine-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 35544591,
       "digest": "sha256:0e285e637932d93253567552c84aeaf941e8a6e5be0ff839243544f59e662719",
-      "download_count": 23,
+      "download_count": 34,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:45Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-linux-alpine-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 34917895,
       "digest": "sha256:3ff44a8f527e4805c0db7abfea8da68b2353f8b1d83e1099d7cae27fc140f95a",
-      "download_count": 142,
+      "download_count": 225,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:44Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-linux-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 35527269,
       "digest": "sha256:ed551216f7a62c562d8d231c0416374566684fcc6163176f2ba4ad721c62900a",
-      "download_count": 990,
+      "download_count": 1988,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:45Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-linux-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33933168,
       "digest": "sha256:14c71ed62b04e895b0dc4818908ccdc14f6012513350be4ee19c0cbef91fc71b",
-      "download_count": 215,
+      "download_count": 353,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:44Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-mac-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 34911296,
       "digest": "sha256:fc6497a9a1c36cd54d6a239d7aa102491b5b6c6e69535d414cf3a5a3a54505fc",
-      "download_count": 44,
+      "download_count": 71,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:45Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-mac-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 33996724,
       "digest": "sha256:cf772e11e8c53324b415dcd72bb0eae137f1e8a8fe2776e3a38e583789a02d53",
-      "download_count": 42,
+      "download_count": 67,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:45Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-win-arm64.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33558440,
       "digest": "sha256:7d0872af30e0b2aa827f4e2eb0761b8852044a1385c8579f9717db8a8b91c357",
-      "download_count": 1291,
+      "download_count": 2155,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:45Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/officecli-win-x64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 710,
       "digest": "sha256:51dc8e97127f9d8bc89bd1f3bca1c80972b70cafacdde69d16766e28fab1cc94",
-      "download_count": 815,
+      "download_count": 1401,
       "created_at": "2026-11-12T09:44:43Z",
       "updated_at": "2026-11-12T09:44:43Z",
       "browser_download_url": "https://github.com/iOfficeAI/OfficeCLI/releases/download/v1.0.161/SHA256SUMS"
